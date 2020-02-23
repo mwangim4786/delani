@@ -283,4 +283,12 @@ p{
     margin-left: 20px;
   }
   
+  button{
+      background: transparent;
+      border: 1px solid white;
+  }
+
+  .projName{
+      text-align: left;
+  }
  

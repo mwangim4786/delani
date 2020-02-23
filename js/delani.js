@@ -61,5 +61,41 @@ $(function(){
         $('#hover8').hide()
        });
 
+
+
+
+
+
+
+
+
+       $("#details form").submit(function(event) {
+        var namesInput = $("#name").val();
+        var mailInput = $("#mail").val();    
+        var commentInput = $("#comment").val();
+        
+
+
+        $(".name").text(namesInput);
+        $(".mail").text(mailInput);
+        $(".comment").text(commentInput);
+        
+alert(namesInput +", we have received your message. Thank you for reaching out to us.");
+        // $("#story").show();
+
+        event.preventDefault();
+        // alert(person1Input);
+    });
+
+
+
+
+
+
+
+
+
+
+
 });
   
