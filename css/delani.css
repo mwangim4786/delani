@@ -246,5 +246,21 @@ p{
     height: 65%; 
     margin-top: 30px;
   }
+
+  #details{
+    padding-top: 40px; 
+    text-align: center;
+  }
+
+  #details input{
+    background: transparent; 
+    color: white;
+  }
+
+  #details textarea{
+    margin-top: 15px; 
+    background: transparent; 
+    color: white;
+  }
   
  
