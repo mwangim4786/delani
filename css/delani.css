@@ -9,19 +9,24 @@ p{
   
   #div1{
     width: 100%; 
-    height: 56%; 
+    height: 620px; 
     color: white;  
     text-align: center; 
   }
 
   #div1 #img1{
-    margin-top: 190px; 
-    margin-bottom: 37px; 
-    width: 7%;
+    margin-top: 185px; 
+    margin-bottom: 27px; 
+    /* margin-bottom: 40px;  */
+    width: 6.5%;
   }
 
   #div1 #img2{
-    margin-top: 127px;
+    margin-top: 105px;
+  }
+
+  #div1 h1{
+      line-height: 63px;
   }
 
   #aboutus{
