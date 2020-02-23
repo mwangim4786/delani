@@ -37,5 +37,29 @@ $(function(){
         $('#hover4').hide()
        });
 
+       $('#hov5').hover(function(){
+        $('#hover5').show();
+      }, function() {
+        $('#hover5').hide()
+       });
+    
+       $('#hov6').hover(function(){
+        $('#hover6').show();
+      }, function() {
+        $('#hover6').hide()
+       });
+    
+       $('#hov7').hover(function(){
+        $('#hover7').show();
+      }, function() {
+        $('#hover7').hide()
+       });
+    
+       $('#hov8').hover(function(){
+        $('#hover8').show();
+      }, function() {
+        $('#hover8').hide()
+       });
+
 });
   
