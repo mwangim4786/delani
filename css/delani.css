@@ -1,0 +1,21 @@
+p{
+    text-align: center;
+    font-size: 10px; 
+  }
+  
+  #div1{
+    width: 100%; 
+    height: 56%; 
+    color: white;  
+    text-align: center; 
+  }
+
+  #div1 #img1{
+    margin-top: 190px; 
+    margin-bottom: 37px; 
+    width: 7%;
+  }
+
+  #div1 #img2{
+    margin-top: 127px;
+  }
