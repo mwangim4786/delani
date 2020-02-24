@@ -76,15 +76,15 @@ $(function(){
         
 
 
-        $(".name").text(namesInput);
-        $(".mail").text(mailInput);
-        $(".comment").text(commentInput);
+        // $(".name").text(namesInput);
+        // $(".mail").text(mailInput);
+        // $(".comment").text(commentInput);
         
-alert(namesInput +", we have received your message. Thank you for reaching out to us.");
-        // $("#story").show();
+        alert(namesInput +", we have received your message. Thank you for reaching out to us.");
+       
 
         event.preventDefault();
-        // alert(person1Input);
+       
     });
 
 
